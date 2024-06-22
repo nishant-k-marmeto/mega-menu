@@ -110,4 +110,4 @@ class StickyHeader extends HTMLElement {
   }
 }
 
-customElements.define('sticky-header', StickyHeader);
+customElements.define('marmeto-sticky-header', StickyHeader);
